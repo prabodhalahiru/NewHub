@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="product1">Star LED Moon Light</string>
+    <string name="product2">Home Decoration LED Bulb</string>
+    <string name="product3">3D Cartoon LED</string>
+    <string name="p1price">Rs. 345.00</string>
+    <string name="p2price">Rs. 450.00</string>
+    <string name="p3price">Rs.280.00</string>
+</resources>
