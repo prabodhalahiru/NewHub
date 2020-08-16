@@ -6,4 +6,9 @@
     <string name="p1price">Rs. 345.00</string>
     <string name="p2price">Rs. 450.00</string>
     <string name="p3price">Rs.280.00</string>
+    <string name="sizeCategory">S</string>
+    <string name="sizeCategory2">L</string>
+    <string name="msg1">2</string>
+    <string name="msg2">Description</string>
+    <string name="msg3">Add to Cart</string>
 </resources>
